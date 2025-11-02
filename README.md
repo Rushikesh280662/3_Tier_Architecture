@@ -104,9 +104,9 @@ III. **Database Server**
   ```sql
   SELECT * FROM students;
 
-## 7. If data appears correctly, It means deployment is successful.
+**Note - If data appears correctly, It means deployment is successful.**
 
-### 🚀 **8. Future Enhancements**
+### **7. Future Enhancements**
 ```md
 ## Future Enhancements
 - Add Load Balancer (ELB) for high availability.
@@ -115,9 +115,15 @@ III. **Database Server**
 - Monitor infrastructure via AWS CloudWatch.
 (still learning so theere are nwe relese's soon)
 
-## 9. Author
-Rushikesh Dase
+```
+### **8.  Author**
+
+**Rushikesh Dase**  
 Cloud Computing Enthusiast | AWS Learner  
-GitHub: [Rushikesh280662](https://github.com/Rushikesh280662)
-linkedin: http://www.linkedin.com/in/rushi-dase
+📧 *daserushikesh@gmail.com*
+
+### 🔗 Connect with Me
+If you’d like to check out more of my cloud-related hands-on practices and projects, connect with me on [LinkedIn](https://www.linkedin.com/in/rushi-dase).
+
+
 
